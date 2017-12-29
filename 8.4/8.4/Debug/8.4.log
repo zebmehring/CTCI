@@ -1,0 +1,13 @@
+﻿  8.4.cpp
+c:\users\zeb mehring\dropbox\personal\ctci\8.4\8.4\8.4.cpp(15): warning C4018: '<=': signed/unsigned mismatch
+  c:\users\zeb mehring\dropbox\personal\ctci\8.4\8.4\8.4.cpp(8): note: see reference to function template instantiation 'void powerSetHelper<int>(std::vector<std::vector<int,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,std::vector<_Ty,std::allocator<_Ty>>,int)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+  c:\users\zeb mehring\dropbox\personal\ctci\8.4\8.4\8.4.cpp(44): note: see reference to function template instantiation 'std::vector<std::vector<int,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> powerSet<int>(std::vector<_Ty,std::allocator<_Ty>>)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+  8.4.vcxproj -> C:\Users\Zeb Mehring\Dropbox\Personal\CTCI\8.4\Debug\8.4.exe

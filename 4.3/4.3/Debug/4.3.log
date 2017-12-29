@@ -1,0 +1,7 @@
+﻿  4.3.cpp
+c:\users\zeb mehring\dropbox\personal\ctci\4.3\4.3\4.3.cpp(53): warning C4930: 'std::forward_list<int,std::allocator<_Ty>> treeList(void)': prototyped function not called (was a variable definition intended?)
+          with
+          [
+              _Ty=int
+          ]
+  4.3.vcxproj -> C:\Users\Zeb Mehring\Dropbox\Personal\CTCI\4.3\Debug\4.3.exe
